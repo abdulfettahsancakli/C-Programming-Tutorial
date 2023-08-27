@@ -6,10 +6,10 @@ Merhaba! Bu GitHub deposu, üniversite hayatımda yazdığım C programlama kodl
 
 Repo içeriği:
 
-Döngüler ve Koşullar: İf-else, while, for gibi döngü ve koşul yapılarını içeren örnekler.
-Fonksiyonlar: Fonksiyon kullanımının örnekleri ve faydalı kod parçacıkları.
-Diziler ve Pointerlar: Dizi tanımlama, erişim ve pointer kullanımına dair örnekler.
-Veri Yapıları: Temel veri yapıları olan liste, yığın ve kuyruğun uygulamaları.
+Döngüler ve Koşullar: İf-else, while, for gibi döngü ve koşul yapılarını içeren örnekler./n
+Fonksiyonlar: Fonksiyon kullanımının örnekleri ve faydalı kod parçacıkları./n
+Diziler ve Pointerlar: Dizi tanımlama, erişim ve pointer kullanımına dair örnekler./n
+Veri Yapıları: Temel veri yapıları olan liste, yığın ve kuyruğun uygulamaları./n
 Dosya İşlemleri: Dosya okuma ve yazma işlemleri için basit örnekler.
 
 Bu depoyu oluştururken amacım, hem kendi C programlama becerilerimi geliştirmek hem de diğer programcılara yardımcı olmaktır. Kodları inceleyebilir, paylaşabilir ve istediğiniz gibi kullanabilirsiniz. Keyifli kodlamalar!
